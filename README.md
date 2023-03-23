@@ -1,0 +1,2 @@
+# APmode_arduinoOTA
+APモードでarduinoOTAをライブラリー化しました
